@@ -13,5 +13,8 @@ Binarization
 Hole filling and noise removal
 Preprocessing for accurate stone detection
 
-Installation
+**Installation**
 For installation , refer https://www.mathworks.com/products/matlab.html.
+
+Any Queries,
+akshathahebbar46@gmail.com
